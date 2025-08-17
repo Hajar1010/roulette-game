@@ -9,4 +9,6 @@ A simple Python roulette game where players bet on numbers and try to maximize t
 4. If you lose, your bet is deducted from your budget.
 5. Continue or quit at any time.
 
-## Run the Game
+## technologies used
+- python
+

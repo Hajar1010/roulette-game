@@ -1,6 +1,7 @@
 # roulette-game
 A simple Python roulette game where players bet on numbers and try to maximize their winnings.
 
+
 ## How to Play
 
 1. Enter your initial budget.

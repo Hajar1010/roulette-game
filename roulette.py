@@ -1,5 +1,6 @@
 import random
 from math import*
+
 # Configure the Roulette Wheel
 list = [i for i in range (0,37)]
 # Manage the Player's Budget
@@ -42,3 +43,4 @@ while Budget_Initial>0:
 else:
     print("You no longer have money to continue.")
 print("Nice game. See you soon!")
+
